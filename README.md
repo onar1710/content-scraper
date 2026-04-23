@@ -91,11 +91,8 @@ De cada URL extrae:
 - No extrae imágenes intencionalmente
 - No usa ninguna API de pago, todo gratis
 
-## Publicar en npm
+## Publico en npm
 
-```bash
-npm login
-npm publish --access public
 ```
 
 ## Licencia
