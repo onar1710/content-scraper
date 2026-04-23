@@ -4,7 +4,7 @@
   "description": "CLI para extraer contenido de URLs y generar JSON listo para IA",
   "type": "module",
   "bin": {
-    "content-scraper": "./src/index.js"
+    "content-scraper": "src/index.js"
   },
   "scripts": {
     "start": "node src/index.js"
