@@ -1,6 +1,6 @@
 {
   "name": "content-scraper-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI para extraer contenido de URLs y generar JSON listo para IA",
   "type": "module",
   "bin": {
