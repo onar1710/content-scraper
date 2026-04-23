@@ -1,6 +1,6 @@
 {
   "name": "content-scraper-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI para extraer contenido de URLs y generar JSON listo para IA",
   "type": "module",
   "bin": {
@@ -17,6 +17,12 @@
     "ora": "^8.0.1",
     "fs-extra": "^11.2.0"
   },
-  "keywords": ["scraper", "cli", "content", "json", "astro"],
+  "keywords": [
+    "scraper",
+    "cli",
+    "content",
+    "json",
+    "astro"
+  ],
   "license": "MIT"
 }
