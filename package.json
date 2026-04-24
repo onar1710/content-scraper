@@ -1,6 +1,6 @@
 {
   "name": "content-scraper-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI para extraer contenido de URLs y generar JSON listo para IA",
   "type": "module",
   "bin": {
@@ -8,6 +8,12 @@
   },
   "scripts": {
     "start": "node src/index.js"
+  },
+  "author": "Omar Fuentes (https://omarfuentes.com)",
+  "homepage": "https://omarfuentes.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onar1710/content-scraper-cli"
   },
   "dependencies": {
     "axios": "^1.6.0",
@@ -18,11 +24,14 @@
     "fs-extra": "^11.2.0"
   },
   "keywords": [
-    "scraper",
-    "cli",
-    "content",
-    "json",
-    "astro"
+    "web-scraper",
+    "content-scraper",
+    "cli-tool",
+    "seo",
+    "ai-content",
+    "content-research",
+    "blog-research",
+    "nodejs-cli"
   ],
   "license": "MIT"
 }
