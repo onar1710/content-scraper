@@ -92,7 +92,8 @@ De cada URL extrae:
 - No usa ninguna API de pago, todo gratis
 
 ## Publico en npm
-
+Created by Omar Fuentes
+https://omarfuentes.com
 ```
 
 ## Licencia
