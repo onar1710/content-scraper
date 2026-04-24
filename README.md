@@ -93,11 +93,9 @@ De cada URL extrae:
 
 ## Publicar en npm
 
-```bash
-npm login
-npm publish --access public
-```
+Created by Omar Fuentes
+https://omarfuentes.com
 
-## Licencia
+## Licencia open source
 
 MIT
